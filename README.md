@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-The content is a prototype website with working authentication, using react toastify and daisyUI for UI libraries
+The content is a prototype website with auth function, using react toastify and daisyUI for UI libraries
 
 ## Getting Started
 
